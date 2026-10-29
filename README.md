@@ -1,2 +1,2 @@
 # jiratime-releases
-jiratime-releases
+Releases for Jira Time application
